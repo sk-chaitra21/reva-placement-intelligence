@@ -1,3 +1,4 @@
+
 [project]
 name = "reva-placement-intelligence"
 version = "0.1.0"
@@ -12,6 +13,7 @@ dependencies = [
     "pydantic>=2.10,<3.0",
     "pydantic-settings>=2.8,<3.0",
     "google-genai",
+    "PyJWT>=2.10,<3.0",
 ]
 
 [dependency-groups]
